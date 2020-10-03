@@ -42,6 +42,9 @@ namespace Entidades
             this.color = color;
         }
 
+        /// <summary>
+        /// Getter abstracto de Tamanio
+        /// </summary>
         protected abstract ETamanio Tamanio { get; }
 
         /// <summary>
@@ -53,6 +56,10 @@ namespace Entidades
             return (string)this;
         }
 
+        /// <summary>
+        /// Publica informacion que poseen todos los vehiculos
+        /// </summary>
+        /// <param name="p"></param>
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
