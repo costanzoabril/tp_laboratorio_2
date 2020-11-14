@@ -1,0 +1,9 @@
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\obj\Debug\Clases abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\bin\Debug\Entitdades.dll
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\bin\Debug\Entitdades.pdb
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\bin\Debug\Excepciones.dll
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\bin\Debug\Excepciones.pdb
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\obj\Debug\Clases abstractas.csprojAssemblyReference.cache
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\obj\Debug\Clases abstractas.csproj.CopyComplete
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\obj\Debug\Entitdades.dll
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Entitdades\obj\Debug\Entitdades.pdb

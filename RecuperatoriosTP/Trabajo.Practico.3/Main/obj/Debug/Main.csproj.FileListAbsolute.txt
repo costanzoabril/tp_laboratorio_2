@@ -1,0 +1,16 @@
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Main.exe.config
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Main.exe
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Main.pdb
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Archivos.dll
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Clases Instanciables.dll
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Entitdades.dll
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Excepciones.dll
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Archivos.pdb
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Clases Instanciables.pdb
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Entitdades.pdb
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\obj\Debug\Main.exe
+C:\Users\Franco Costanzo\source\repos\Trabajo.Practico.3\Main\obj\Debug\Main.pdb
