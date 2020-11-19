@@ -45,8 +45,7 @@ namespace Entidades
         {
             double aux;
 
-            if (!double.TryParse(strNumero, out aux))
-                aux = 0;
+            double.TryParse(strNumero, out aux);
 
             return aux;
         }
