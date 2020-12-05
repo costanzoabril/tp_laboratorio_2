@@ -77,6 +77,7 @@ namespace Forms
             catch (ArchivoException)
             {
                 MessageBox.Show("Error al guardar ticket en archivo de texto.");
+
             }
 
         }
@@ -88,7 +89,7 @@ namespace Forms
         {
             while (true)
             {
-                Thread.Sleep(6000);
+                Thread.Sleep(5000);
 
                 if (this.textBoxVentas.InvokeRequired)
                 {
@@ -97,7 +98,7 @@ namespace Forms
                         this.textBoxVentas.Text = string.Empty;
                     });
 
-                    Thread.Sleep(3000);
+                    Thread.Sleep(5000);
                 }
             }
 
@@ -347,6 +348,7 @@ namespace Forms
             catch(Exception ex)
             {
                 MessageBox.Show(ex.Message);
+                ex.Guardar();
             }
         }
   
@@ -377,6 +379,7 @@ namespace Forms
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
+                ex.Guardar();
             }
         }
 
@@ -406,6 +409,7 @@ namespace Forms
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
+                ex.Guardar();
             }
         }
 
@@ -427,6 +431,7 @@ namespace Forms
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message);
+                    ex.Guardar();
                 }
 
                 DataRow fila = this.dtPeliculas.NewRow();
@@ -459,6 +464,7 @@ namespace Forms
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
+                ex.Guardar();
             }
             this.Dispose();
         }
@@ -481,6 +487,7 @@ namespace Forms
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.Message);
+                    ex.Guardar();
                 }
 
                 DataRow fila = this.dtEstacionamiento.NewRow();

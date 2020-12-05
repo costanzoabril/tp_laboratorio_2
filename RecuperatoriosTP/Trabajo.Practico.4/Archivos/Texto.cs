@@ -37,6 +37,7 @@ namespace Archivos
             catch (Exception ex)
             {
                 throw new ArchivoException("No se pudo guardar el archivo" + ex.Message);
+                
             }
 
             return pudoGuardar;

@@ -12,3 +12,17 @@ C:\Users\Franco Costanzo\source\repos\Costanzo.Abril.2A.TP4\Test\bin\Debug\Archi
 C:\Users\Franco Costanzo\source\repos\Costanzo.Abril.2A.TP4\Test\bin\Debug\Entidades.pdb
 C:\Users\Franco Costanzo\source\repos\Costanzo.Abril.2A.TP4\Test\bin\Debug\Excepciones.pdb
 C:\Users\Franco Costanzo\source\repos\Costanzo.Abril.2A.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Test.exe.config
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Test.exe
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Test.pdb
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Archivos.dll
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Entidades.dll
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Excepciones.dll
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Archivos.pdb
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Entidades.pdb
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\bin\Debug\Excepciones.pdb
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\obj\Debug\Test.exe
+C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Test\obj\Debug\Test.pdb
