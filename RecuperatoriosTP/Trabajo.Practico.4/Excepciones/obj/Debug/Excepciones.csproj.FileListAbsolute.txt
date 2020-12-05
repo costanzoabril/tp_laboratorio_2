@@ -3,3 +3,9 @@ C:\Users\Franco Costanzo\source\repos\Costanzo.Abril.2A.TP4\Excepciones\bin\Debu
 C:\Users\Franco Costanzo\source\repos\Costanzo.Abril.2A.TP4\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\Franco Costanzo\source\repos\Costanzo.Abril.2A.TP4\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\Franco Costanzo\source\repos\Costanzo.Abril.2A.TP4\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Excepciones\obj\Debug\Excepciones.pdb

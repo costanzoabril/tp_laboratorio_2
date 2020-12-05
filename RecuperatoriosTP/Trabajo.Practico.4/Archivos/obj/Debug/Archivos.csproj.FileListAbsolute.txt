@@ -16,3 +16,12 @@ C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Pract
 C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\obj\Debug\Archivos.dll
 C:\Users\Franco Costanzo\Desktop\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\bin\Debug\Archivos.dll
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\obj\Debug\Archivos.dll
+C:\Users\Franco Costanzo\Desktop\dfjgsd\tp_laboratorio_2\RecuperatoriosTP\Trabajo.Practico.4\Archivos\obj\Debug\Archivos.pdb
